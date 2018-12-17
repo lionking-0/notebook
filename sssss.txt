@@ -1,1 +1,7 @@
+<<<<<<< .mine
 dddfdfdsfcx
+
+=======
+dddfdfdsfcx
+dddfd
+>>>>>>> .theirs
